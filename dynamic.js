@@ -1,5 +1,5 @@
 (function () {
-
+    console.log('enter js');	
     const URL = "https://raw.githubusercontent.com/RahulSharma1187/netflix/main/dynamic.json";
 
     var videoId;
