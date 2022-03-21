@@ -1,12 +1,16 @@
 (function () {
     console.log('enter js');	
     const URL = "https://raw.githubusercontent.com/RahulSharma1187/netflix/main/dynamic.json";
+	
+function abc(){
+	console.log('1245');
+}
 
     var videoId;
 	var minutes;
 	var seconds;
 
-    function init() {
+  async  function init() {
 
         let response = await fetch(URL);
 		let data = await response.json();
