@@ -5,6 +5,8 @@
 function abc(){
 	console.log('1245');
 }
+	
+	abc();
 
     var videoId;
 	var minutes;
