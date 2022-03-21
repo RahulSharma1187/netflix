@@ -6,7 +6,7 @@
 	var minutes;
 	var seconds;
 
-    async function init() {
+    function init() {
 
         let response = await fetch(URL);
 		let data = await response.json();
