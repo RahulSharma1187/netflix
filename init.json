@@ -1,20 +1,12 @@
 [
     {
         "videoId": "81144150",
-        "detail":
-        [{
-            "minutes": 99,
-            "seconds": 5990
-        }]
-        
+        "minutes": 99,
+        "seconds": 5990
     },
     {
         "videoId": "81171287",
-        "detail":
-        [{
-            "minutes": 3,
-            "seconds": 182
-        }]
-        
+        "minutes": 3,
+        "seconds": 182
     }
 ]
