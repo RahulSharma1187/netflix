@@ -1,14 +1,3 @@
-let msg = "Hello World!";
-const PI = 3.14; 
- 
-function addNumbers(a, b){
-	console.log('mera code');
-    return a + b;
-}
- 
-export { msg, PI, addNumbers };
-
-
 (function () {
     console.log('enter js');	
     const URL = "https://raw.githubusercontent.com/RahulSharma1187/netflix/main/dynamic.json";
@@ -46,6 +35,7 @@ export { msg, PI, addNumbers };
 
 
     function myFun(){
+	       console.log('myfun');
 		var getVideoId = $('.watch-video').find('.ltr-gwjau2-playerCss').attr('data-videoid');
 		var vid = document.getElementsByTagName("video")[0];
 		var time = vid.currentTime; 
