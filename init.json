@@ -5,7 +5,8 @@
         "comMinutes" : 102,
         "seconds": 5990,
         "comSeconds": 6177,
-        "className": "redBox"
+        "className": "redBox",
+        "imgName" : "https://bereadywith.com/staging/images/howtousecom_tab_graphics_webaddress.svg"
     },
     {
         "videoId": "81350338",
@@ -13,6 +14,7 @@
          "comMinutes" : 6,
         "seconds": 182,
           "comSeconds": 380,
-        "className": "greenBox"
+        "className": "greenBox",
+        "imgName" : "https://bereadywith.com/staging/images/howtousecom_tab_graphics_customemail.svg"
     }
 ]
