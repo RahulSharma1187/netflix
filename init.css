@@ -39,7 +39,7 @@
     display: flex;
 }
 
-.greenBox{
+.redBox{
  background: red;
  display: flex;   
 }
