@@ -3,12 +3,12 @@
         "videoId": "81144150",
         "minutes": 99,
         "seconds": 5990,
-        "className": "redBox",
+        "className": "redBox"
     },
     {
         "videoId": "81350338",
         "minutes": 3,
         "seconds": 182,
-        "className": "greenBox",
+        "className": "greenBox"
     }
 ]
