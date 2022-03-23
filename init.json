@@ -2,13 +2,17 @@
     {
         "videoId": "81144150",
         "minutes": 99,
+        "comMinutes" : 102,
         "seconds": 5990,
+        "comSeconds": 6177,
         "className": "redBox"
     },
     {
         "videoId": "81350338",
         "minutes": 3,
+         "comMinutes" : 6,
         "seconds": 182,
+          "comSeconds": 380,
         "className": "greenBox"
     }
 ]
