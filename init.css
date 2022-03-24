@@ -44,6 +44,11 @@
  display: flex;   
 }
 
+.yellowBox{
+ background: yellow;
+ display: flex;   
+}
+
 @media (max-width: 1450px) {
     .netflix-customTimePopup{
           width: 100px;
