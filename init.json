@@ -16,5 +16,14 @@
           "comSeconds": 380,
         "className": "greenBox",
         "imgName" : "https://bereadywith.com/staging/images/howtousecom_tab_graphics_customemail.svg"
+    },
+    {
+        "videoId": "81154455",
+        "minutes": 10,
+         "comMinutes" : 15,
+        "seconds": 604,
+          "comSeconds": 905,
+        "className": "yellowBox",
+        "imgName" : "https://apng.onevcat.com/assets/elephant.png"
     }
 ]
